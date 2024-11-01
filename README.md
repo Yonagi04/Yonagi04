@@ -19,4 +19,5 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ## 🤩 My Personal Website
-[Yonagi's Sekai](https://yonagi04.github.io)
+[Yonagi's Sekai](https://yonagi04.cn)
+[Blog](https://blog.yonagi04.cn)
