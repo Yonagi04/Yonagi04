@@ -1,5 +1,6 @@
 ## 👋 Hi there. This is Yonagi04
 + 👨‍💻 Backend developer, eager to become a full-stack developer.
++ 😎 Working in Meituan.
 + 😊 You're my ![Visitor Count](https://profile-counter.glitch.me/Yonagi04/count.svg) vistor, Thank you!
 ## 🏗️ Currently working on
 + 🌏 Backend development with Java.
