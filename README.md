@@ -4,8 +4,7 @@
 + 😊 You're my ![Visitor Count](https://profile-counter.glitch.me/Yonagi04/count.svg) vistor, Thank you!
 ## 🏗️ Currently working on
 + 🌏 Backend development with Java.
-+ 🧐 Focus on the development of distributed systems and microservices.
-+ 🧰 Some useful and meaningful personal projects.
++ 🧐 Focus on the development of distributed systems, middleware, database, etc.
 ## 🚀 My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonagi04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yonagi04)](https://git.io/streak-stats)
@@ -20,5 +19,5 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ## 🤩 My Personal Website
-[Yonagi's Sekai](https://yonagi04.cn)
+[Homepage](https://yonagi04.cn)
 [Blog](https://blog.yonagi04.cn)
