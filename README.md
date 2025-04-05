@@ -5,11 +5,6 @@
 ## 🏗️ Currently working on
 + 🌏 Backend development with Java.
 + 🧐 Focus on the development of distributed systems, middleware, database, etc.
-## 🚀 My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonagi04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yonagi04)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=yonagi04&hide=issues&title_color=7ebdff&text_color=777)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonagi04&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## ⚒️ Programming Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
