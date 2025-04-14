@@ -1,11 +1,12 @@
-## 👋 Hi there. This is Yonagi04
-+ 👨‍💻 Backend developer, eager to become a full-stack developer.
-+ 😎 Working in Meituan.
+## 👋 Hi there, I'm Yonagi04
++ 👨‍💻 Backend Developer | Aspiring Full-Stack Engineer
++ 💼 Currently working at Meituan, focusing on high-concurrency backend systems
++ 🤝 Passionate about open source, low-level implementation, and system design
 + 😊 You're my ![Visitor Count](https://profile-counter.glitch.me/Yonagi04/count.svg) vistor, Thank you!
-## 🏗️ Currently working on
-+ 🌏 Backend development with Java.
-+ 🧐 Focus on the development of distributed systems, middleware, database, etc.
-## ⚒️ Programming Languages
+## 🏗️ What I'm Working On
++ 🌏 Backend development with **Java**.
++ 🧐 Interested in **distributed systems**, **middleware**, **databases**, and more
+## ⚒️ Tech Stack
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
