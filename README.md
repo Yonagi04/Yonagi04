@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Yonagi04
 + 👨‍💻 Backend Developer | Aspiring Full-Stack Engineer
-+ 💼 Currently working at Meituan, focusing on high-concurrency backend systems
-+ 🤝 Passionate about open source, low-level implementation, and system design
-+ 😊 You're my ![Visitor Count](https://profile-counter.glitch.me/Yonagi04/count.svg) vistor, Thank you!
++ 💼 Currently working at Meituan, focusing on AI Agent Platform and Workflow Platform.
++ 🤝 Passionate about open source, low-level implementation, and system design, interested in AI and deep learning.
++ 😊 You're my ![Visitor Count](https://profile-counter.glitch.me/Yonagi04/count.svg) visitor, Thank you!
 ## 🏗️ What I'm Working On
 + 🌏 Backend development with **Java**.
-+ 🧐 Interested in **distributed systems**, **middleware**, **databases**, and more
++ 🤖 Exploring cutting-edge AI tech: **AIGC**, **Multi-Agent Systems**, **Model Context Protocol (MCP)**.
 ## ⚒️ Tech Stack
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
