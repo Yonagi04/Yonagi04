@@ -2,7 +2,6 @@
 + 👨‍💻 Backend Developer | Aspiring Full-Stack Engineer
 + 💼 Currently working at Meituan, focusing on AI Agent Platform and Workflow Platform.
 + 🤝 Passionate about open source, low-level implementation, and system design, interested in AI and deep learning.
-+ 😊 You're my ![Visitor Count](https://profile-counter.glitch.me/Yonagi04/count.svg) visitor, Thank you!
 ## 🏗️ What I'm Working On
 + 🌏 Backend development with **Java**.
 + 🤖 Exploring cutting-edge AI tech: **AIGC**, **Multi-Agent Systems**, **Model Context Protocol (MCP)**.
